@@ -1,8 +1,9 @@
+
+Developed by : MERIL GOLDLINA A
+
+Register number : 212224040189
+
 # Series Queues with infinite capacity - Open Jackson Network
-
-DEVELOPED BY: MERIL GOLDLINA A
-
-REGISTER NUMBER: 212224040189
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the each conveyor of (c) waiting time of each material in the system (d) waiting time of each material in each conveyor, if the arrival  of materials follow Poisson process with the mean interval time 12 seconds, service time of  lathe machine in series follow exponential distribution  with service time  1 second, 1.5 seconds and 1.3 seconds respectively and average service time of robot is 7 seconds.
