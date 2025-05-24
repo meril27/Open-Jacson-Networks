@@ -68,13 +68,10 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
 ```
-
 ## Output :
 
 ![image](https://github.com/user-attachments/assets/693fe84e-e36e-4fe8-a22b-e12375535a9b)
-
 
 ## Result :
 
